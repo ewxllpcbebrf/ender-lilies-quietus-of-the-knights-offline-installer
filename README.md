@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+ENDER LILIES is a dark fantasy 2D action RPG about unraveling the mysteries of a destroyed kingdom. On this sorrowful journey, encounter horrific enemies against whom a moment of inattention could be fatal. Overcome these hardships and seek the truth with the help of fallen knights.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Dual Core @ 2.00Ghz / Rec: Quad Core @ 2.50Ghz | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Min: 1GB of video RAM / Rec: 2GB of video RAM | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 SP1 64 bit | Windows 7 SP1 64 bit |
+| **Additional Notes** | 16:9 recommended | 16:9 recommended |
 
 ---
 
